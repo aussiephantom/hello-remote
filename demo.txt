@@ -1,1 +1,2 @@
 Here is some text we are adding into demo.txt
+We have now made a change from local copy.
